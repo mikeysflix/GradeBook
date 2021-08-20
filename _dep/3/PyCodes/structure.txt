@@ -1,0 +1,7 @@
+PyCodes/
+  │
+  ├── application.py
+    └── frontend_methods.py
+      └── backend_methods.py
+        └── data_processing.py
+        └── visual_configuration.py
