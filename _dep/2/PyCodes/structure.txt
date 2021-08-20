@@ -1,6 +1,0 @@
-PyCodes/
-  │
-  ├── gradebook.py
-    └── interface_configuration.py
-      └── visual_configuration.py
-        └── data_processing.py
