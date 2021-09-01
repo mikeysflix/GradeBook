@@ -28,11 +28,11 @@ When evaluating student points, one has the option of applying curves. The first
 
 ![Histogram of Homework 1 Scores](https://github.com/mikeysflix/GradeBook/blob/master/Figures/histogram_distribution_homework_HW_1.png?raw=true)
 
-![Box-Plot of All Homework Scores](https://github.com/mikeysflix/GradeBook/blob/master/boxplot_homework.png?raw=true)
+![Box-Plot of All Homework Scores](https://github.com/mikeysflix/GradeBook/blob/master/Figures/boxplot_homework.png?raw=true)
 
-![Histogram of Assigned Grades](https://github.com/mikeysflix/GradeBook/blob/main/histogram_distribution_grade.png?raw=true)
+![Histogram of Assigned Grades](https://github.com/mikeysflix/GradeBook/blob/master/Figures/histogram_distribution_grade.png?raw=true)
 
-![Stacked Bar-Chart of Scores per Student](https://github.com/mikeysflix/GradeBook/blob/main/stacked_homework_exam_curve.png?raw=true)
+![Stacked Bar-Chart of Scores per Student](https://github.com/mikeysflix/GradeBook/blob/master/Figures/stacked_homework_exam_curve.png?raw=true)
 
 Note that in the stacked bar-chart shown just above, there is only student with over 100% of the maximum allowed points - this is because this student has perfect scores on every assignment (which means no points were earned from the improvement curve) and earned additional points from the flat curve.
 
