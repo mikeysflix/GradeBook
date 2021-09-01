@@ -26,7 +26,7 @@ put picture of data table here
 
 When evaluating student points, one has the option of applying curves. The first type of curve is a flat curve that is applied equally to all students. Another type of curve is specified by assignment type ('homework', 'exam', or 'extra credit'); this method checks for improvement by comparing the latter half of assignment points against the initial half of assignment points and assigns points accordingly. The figures below were generated from the sample data, and are meant to serve as an example of the output; some figures are not shown below for sake of brevity (such as network diagrams, pie-charts, heat-maps, and duplicates of plot-styles shown below for different assignments), but can be found in the '/Figures' in the root directory in this repository.
 
-![Histogram of Homework 1 Scores](https://github.com/mikeysflix/GradeBook/blob/main/histogram_distribution_homework_HW_1.png?raw=true)
+![Histogram of Homework 1 Scores](https://github.com/mikeysflix/GradeBook/blob/main/Figures/histogram_distribution_homework_HW_1.png?raw=true)
 
 ![Box-Plot of All Homework Scores](https://github.com/mikeysflix/GradeBook/blob/main/boxplot_homework.png?raw=true)
 
