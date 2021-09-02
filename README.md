@@ -26,15 +26,19 @@ When evaluating student points, one has the option of applying curves. The first
 
 ![Histogram of Homework 1 Scores](https://github.com/mikeysflix/GradeBook/blob/master/Figures/histogram_distribution_homework_HW_1.png?raw=true)
 
-The figure above shows a histogram of student scores from the assignment "Homework 1".
+The figure above shows a histogram of student scores from the assignment "Homework 1". One can also generate this style of figure for each particular assignment.
 
 ![Box-Plot of All Homework Scores](https://github.com/mikeysflix/GradeBook/blob/master/Figures/boxplot_homework.png?raw=true)
 
-The figure above shows a box-plot of student scores from all homework assignments.
+The figure above shows a box-plot of student scores from all homework assignments. One can also generate this style of figure for each type of assignment.
 
 ![Histogram of Assigned Grades](https://github.com/mikeysflix/GradeBook/blob/master/Figures/histogram_distribution_grade.png?raw=true)
 
 The figure above shows a histogram of assigned grades.
+
+![Pie-Chart of Assigned Grades](https://github.com/mikeysflix/GradeBook/blob/master/Figures/pie_annular_chart_grade_distribution.png?raw=true)
+
+The figure above shows a pie-chart; the size of each slice corresponds to the number of students corresponding to each assigned grade.
 
 ![Stacked Bar-Chart of Scores per Student](https://github.com/mikeysflix/GradeBook/blob/master/Figures/stacked_homework_exam_curve.png?raw=true)
 
