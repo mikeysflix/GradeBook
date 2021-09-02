@@ -20,7 +20,7 @@ Maintaining a gradebook can take a lot of time; this code is meant to simplify t
 
 Depending on your preference, the data should be formatted as '.csv', '.txt', or '.xlsx'. In the sample data provided, there are headers that index each column - this is the default, but one has the option of indexing by row instead; in either case, one shoudl count indices starting from zero. This sample data represents points earned per student; there are ten homework assignments (each worth ten points), and two exams (one 30-point quiz and one 45-point test). Below is a table of this sample data.
 
-![Table of Sample Data](https://github.com/mikeysflix/GradeBook/blob/master/Data/data.xlsx?raw=true)
+![Table of Sample Data](https://github.com/mikeysflix/GradeBook/blob/master/Data/data.png?raw=true)
 
 When evaluating student points, one has the option of applying curves. The first type of curve is a flat curve that is applied equally to all students. Another type of curve is specified by assignment type ('homework', 'exam', or 'extra credit'); this method checks for improvement by comparing the latter half of assignment points against the initial half of assignment points and assigns points accordingly. The figures below were generated from the sample data, and are meant to serve as an example of the output; some figures are not shown below for sake of brevity (such as network diagrams, pie-charts, heat-maps, and duplicates of plot-styles shown below for different assignments), but can be found in the '/Figures' in the root directory in this repository.
 
