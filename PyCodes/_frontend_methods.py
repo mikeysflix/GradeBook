@@ -4,6 +4,18 @@ from PyQt5 import QtWidgets, QtGui, QtCore
 # from PyQt5.QtGui import QIcon
 from backend_methods import *
 
+
+# if __name__ == '__main__':
+#
+#     ## initialize application
+#     app = QtWidgets.QApplication(sys.argv)
+#
+#     window = MainWindow()
+#     # window.show()
+#
+#     ## exit application
+#     sys.exit(app.exec_())
+
 class TableModel(QtCore.QAbstractTableModel):
 
     """
